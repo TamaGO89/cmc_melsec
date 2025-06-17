@@ -1,9 +1,11 @@
 {
-  "name": "slmpjs",
+  "name": "@tamago89/slmpjs",
   "version": "1.0.0",
   "description": "Native javascript version of melsec communication protocol",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "test": "jest"
+  },
   "bin": {},
   "jest": {
     "rootDir": "lib"
@@ -22,9 +24,9 @@
     }
   ],
   "license": "Apache-2.0",
-  "dependencies": {},
-  "devDependencies": {},
-  "optionalDependencies": {},
+  "devDependencies": {
+    "jest": "^30.0.0"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/TamaGO89/cmc_melsec.git"
