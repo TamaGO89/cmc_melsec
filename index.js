@@ -19,5 +19,6 @@
 module.exports = {
   Client: require('./lib/client'),
   Const: require('./lib/const'),
-  Utils: require('./lib/utils')
+  Utils: require('./lib/utils'),
+  Advanced: require('./lib/advanced')
 }

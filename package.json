@@ -1,6 +1,6 @@
 {
   "name": "@tamago89/slmpjs",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Native javascript version of melsec communication protocol",
   "main": "index.js",
   "scripts": {
